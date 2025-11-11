@@ -1,4 +1,4 @@
-
+import random
 
 from main import make_table_open, put_open, get_open, delete_open
 
